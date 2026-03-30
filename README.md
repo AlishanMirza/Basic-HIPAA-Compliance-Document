@@ -1,7 +1,7 @@
 # HIPAA Compliance Documentation
 
 This repository contains HIPAA-aligned compliance documentation, including policies, procedures, and training materials.
-
+---
 ## Structure
 
 HIPAA-Compliance-Documentation/
